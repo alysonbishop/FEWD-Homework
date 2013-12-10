@@ -1,0 +1,18 @@
+<!doctype html>
+<head>
+	<title>Boxes</title>
+</head>
+
+<header>
+	<div id="box1">
+		border:1px soild black;
+	</div>
+
+	<div id="box2">
+		border:1px soild black;
+	</div>
+
+	<div id="box3">
+		border:1px soild black 
+	</div>
+</header>
